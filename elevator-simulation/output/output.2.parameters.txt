@@ -1,0 +1,21 @@
+BuildingParameters {
+    floors: 8,
+    interfloor_distance: 3.5 m^1,
+    passengers_per_5_min: 5,
+    cargo_per_5_min: 2
+}
+LiftParameters {
+    rated_weight: 5000.0 kg^1,
+    rated_passengers: 65,
+    rated_speed: 1.6 m^1 s^-1,
+    door_opening_time: 1.5 s^1,
+    door_closing_time: 1.5 s^1,
+    flight_time_single_floor: 8.0 s^1
+}
+SimulationParameters {
+    period: 3600.0 s^1,
+    slice: 0.1 s^1,
+    simulations: 1000
+}
+total_ticks: 36000
+invalid results: 0

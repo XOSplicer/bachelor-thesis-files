@@ -1,0 +1,10 @@
+numpy
+scipy
+matplotlib
+opencv-python
+opencv-contrib-python
+PyYAML
+scikit-image
+PyQt5
+PyOpenGL
+pyqtgraph

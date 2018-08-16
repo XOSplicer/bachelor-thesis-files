@@ -1,0 +1,4048 @@
+BuildingParameters {
+    floors: 8,
+    interfloor_distance: 3.5 m^1,
+    passengers_per_5_min: 7,
+    cargo_per_5_min: 2
+}
+LiftParameters {
+    rated_weight: 5000.0 kg^1,
+    rated_passengers: 65,
+    rated_speed: 1.6 m^1 s^-1,
+    door_opening_time: 1.5 s^1,
+    door_closing_time: 1.5 s^1,
+    flight_time_single_floor: 8.0 s^1
+}
+SimulationParameters {
+    period: 3600.0 s^1,
+    slice: 0.1 s^1,
+    simulations: 1000
+}
+total_ticks: 36000
+
+running simulation 500
+running simulation 0
+running simulation 250
+running simulation 750
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 251
+running simulation 501
+running simulation 1
+running simulation 751
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 502
+running simulation: "Adaptive Control"
+running simulation 252
+running simulation 2
+running simulation 752
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 503
+running simulation 753
+running simulation 253
+running simulation 3
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 504
+running simulation: "Adaptive Control"
+running simulation 754
+running simulation 254
+running simulation 4
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 755
+running simulation: "Adaptive Control"
+running simulation 505
+running simulation: "Adaptive Control"
+running simulation 255
+running simulation 5
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 506
+running simulation: "Adaptive Control"
+running simulation 756
+running simulation 256
+running simulation: "Sequential Control"
+running simulation 6
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation 507
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 257
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 7
+running simulation 757
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 508
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation 258
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 8
+running simulation: "Sequential Control"
+running simulation 758
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 509
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 259
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 9
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 759
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation 510
+running simulation 260
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation 10
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation 760
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 261
+running simulation 511
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 11
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 761
+running simulation: "Adaptive Control"
+running simulation 512
+running simulation: "Adaptive Control"
+running simulation 262
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 12
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 762
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation 263
+running simulation: "Adaptive Control"
+running simulation 513
+running simulation: "Collective Control"
+running simulation 13
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 763
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 264
+running simulation 14
+running simulation: "Sequential Control"
+running simulation 514
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 764
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 265
+running simulation 15
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 515
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation 765
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 266
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation 16
+running simulation: "Collective Control"
+running simulation 516
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 766
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 267
+running simulation 517
+running simulation 17
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation 767
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 518
+running simulation 268
+running simulation 18
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 768
+running simulation 519
+running simulation: "Adaptive Control"
+running simulation 269
+running simulation 19
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 769
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 270
+running simulation 520
+running simulation 20
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 770
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 271
+running simulation: "Adaptive Control"
+running simulation 21
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 521
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 771
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 272
+running simulation: "Sequential Control"
+running simulation 22
+running simulation: "Collective Control"
+running simulation 522
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation 772
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 273
+running simulation 23
+running simulation: "Sequential Control"
+running simulation 523
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 773
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 24
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 524
+running simulation 274
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation 774
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 275
+running simulation 25
+running simulation 525
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 775
+running simulation: "Adaptive Control"
+running simulation 276
+running simulation: "Adaptive Control"
+running simulation 526
+running simulation 26
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 277
+running simulation 776
+running simulation 527
+running simulation 27
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 278
+running simulation 777
+running simulation: "Adaptive Control"
+running simulation 528
+running simulation 28
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation 778
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 279
+running simulation 529
+running simulation 29
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 779
+running simulation: "Adaptive Control"
+running simulation 280
+running simulation: "Adaptive Control"
+running simulation 30
+running simulation: "Sequential Control"
+running simulation 530
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 780
+running simulation 281
+running simulation: "Adaptive Control"
+running simulation 31
+running simulation 531
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation 781
+running simulation 282
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 532
+running simulation 32
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 782
+running simulation: "Adaptive Control"
+running simulation 283
+running simulation 533
+running simulation 33
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 783
+running simulation: "Adaptive Control"
+running simulation 284
+running simulation 34
+running simulation 534
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 784
+running simulation: "Adaptive Control"
+running simulation 285
+running simulation: "Adaptive Control"
+running simulation 535
+running simulation: "Sequential Control"
+running simulation 35
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation 785
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 286
+running simulation 536
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 36
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation 786
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation 537
+running simulation 287
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation 37
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation 787
+running simulation: "Adaptive Control"
+running simulation 288
+running simulation: "Adaptive Control"
+running simulation 538
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 38
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 788
+running simulation: "Adaptive Control"
+running simulation 539
+running simulation: "Adaptive Control"
+running simulation 289
+running simulation: "Sequential Control"
+running simulation 39
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 540
+running simulation 789
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 290
+running simulation 40
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 790
+running simulation 541
+running simulation: "Adaptive Control"
+running simulation 291
+running simulation 41
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 791
+running simulation 542
+running simulation: "Adaptive Control"
+running simulation 292
+running simulation 42
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 792
+running simulation 293
+running simulation 543
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation 43
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 793
+running simulation 544
+running simulation 294
+running simulation: "Adaptive Control"
+running simulation 44
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 794
+running simulation 545
+running simulation 295
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation 45
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 795
+running simulation 546
+running simulation: "Adaptive Control"
+running simulation 296
+running simulation 46
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 796
+running simulation 547
+running simulation 297
+running simulation 47
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 797
+running simulation: "Adaptive Control"
+running simulation 548
+running simulation: "Adaptive Control"
+running simulation 48
+running simulation 298
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 798
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 549
+running simulation 49
+running simulation 299
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation 799
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 550
+running simulation 300
+running simulation: "Sequential Control"
+running simulation 50
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation 800
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation 551
+running simulation 301
+running simulation 51
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation 801
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation 552
+running simulation: "Collective Control"
+running simulation 302
+running simulation 52
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 802
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation 553
+running simulation: "Collective Control"
+running simulation 53
+running simulation 303
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation 803
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation 554
+running simulation: "Collective Control"
+running simulation 54
+running simulation 304
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation 804
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 555
+running simulation 55
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation 305
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 805
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 556
+running simulation 56
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 806
+running simulation 306
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 557
+running simulation: "Sequential Control"
+running simulation 57
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 558
+running simulation 807
+running simulation: "Adaptive Control"
+running simulation 307
+running simulation 58
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 308
+running simulation 59
+running simulation 559
+running simulation 808
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 309
+running simulation: "Adaptive Control"
+running simulation 809
+running simulation 60
+running simulation 560
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 310
+running simulation 810
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 61
+running simulation 561
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation 811
+running simulation: "Adaptive Control"
+running simulation 311
+running simulation: "Adaptive Control"
+running simulation 62
+running simulation 562
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 312
+running simulation: "Adaptive Control"
+running simulation 63
+running simulation 812
+running simulation 563
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 313
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 64
+running simulation 564
+running simulation 813
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation 314
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 814
+running simulation: "Sequential Control"
+running simulation 65
+running simulation: "Collective Control"
+running simulation 565
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation 315
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 815
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation 66
+running simulation: "Collective Control"
+running simulation 566
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation 316
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 816
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 67
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 317
+running simulation 567
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation 817
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 68
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation 318
+running simulation 568
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation 818
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 69
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation 319
+running simulation: "Sequential Control"
+running simulation 569
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation 819
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 70
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 570
+running simulation: "Adaptive Control"
+running simulation 320
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 820
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation 71
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 571
+running simulation: "Sequential Control"
+running simulation 821
+running simulation: "Collective Control"
+running simulation 321
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation 72
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 572
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 822
+running simulation 322
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 73
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation 573
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation 323
+running simulation 823
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation 74
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 324
+running simulation: "Adaptive Control"
+running simulation 574
+running simulation 824
+running simulation 75
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 325
+running simulation 575
+running simulation 825
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation 76
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 826
+running simulation 326
+running simulation 576
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation 77
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 827
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 577
+running simulation: "Sequential Control"
+running simulation 78
+running simulation: "Collective Control"
+running simulation 327
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 828
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation 578
+running simulation: "Collective Control"
+running simulation 79
+running simulation 328
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation 829
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 579
+running simulation 80
+running simulation 329
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation 830
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 580
+running simulation 81
+running simulation 330
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation 831
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation 581
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 331
+running simulation: "Sequential Control"
+running simulation 82
+running simulation 832
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation 582
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 833
+running simulation: "Sequential Control"
+running simulation 332
+running simulation: "Collective Control"
+running simulation 83
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 583
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 834
+running simulation: "Adaptive Control"
+running simulation 333
+running simulation: "Sequential Control"
+running simulation 84
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation 584
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 835
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 85
+running simulation 334
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 585
+running simulation 836
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 86
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation 335
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 837
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation 586
+running simulation: "Collective Control"
+running simulation 87
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation 336
+running simulation: "Adaptive Control"
+running simulation 838
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation 587
+running simulation: "Collective Control"
+running simulation 88
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation 337
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 839
+running simulation: "Adaptive Control"
+running simulation 588
+running simulation 89
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 338
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 90
+running simulation 840
+running simulation 589
+running simulation: "Sequential Control"
+running simulation 339
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 91
+running simulation 841
+running simulation: "Adaptive Control"
+running simulation 590
+running simulation 340
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 591
+running simulation: "Collective Control"
+running simulation 92
+running simulation 842
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation 341
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 93
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 592
+running simulation 843
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 342
+running simulation 593
+running simulation 94
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation 844
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation 343
+running simulation 594
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation 95
+running simulation 845
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation 595
+running simulation: "Collective Control"
+running simulation 344
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 96
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 846
+running simulation: "Adaptive Control"
+running simulation 345
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 596
+running simulation 97
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 847
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 597
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 98
+running simulation 346
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation 848
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 99
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation 598
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation 347
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 849
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation 100
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation 599
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation 850
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation 101
+running simulation 348
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 600
+running simulation 851
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 349
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 102
+running simulation: "Collective Control"
+running simulation 852
+running simulation 601
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 350
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 103
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 602
+running simulation 853
+running simulation 351
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 104
+running simulation 854
+running simulation 603
+running simulation 352
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 855
+running simulation: "Adaptive Control"
+running simulation 105
+running simulation 353
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation 604
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 856
+running simulation 354
+running simulation: "Adaptive Control"
+running simulation 106
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 605
+running simulation 857
+running simulation 355
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 107
+running simulation: "Adaptive Control"
+running simulation 356
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 858
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 606
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 357
+running simulation 108
+running simulation: "Adaptive Control"
+running simulation 859
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation 607
+running simulation: "Collective Control"
+running simulation 860
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 109
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 358
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation 608
+running simulation 861
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 110
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 359
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 862
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 609
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 111
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation 360
+running simulation: "Collective Control"
+running simulation 863
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 610
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation 864
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 112
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation 361
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 611
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 865
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 362
+running simulation: "Adaptive Control"
+running simulation 113
+running simulation: "Adaptive Control"
+running simulation 866
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 612
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 114
+running simulation 363
+running simulation: "Adaptive Control"
+running simulation 867
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 613
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation 115
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 868
+running simulation 364
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 614
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation 116
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation 365
+running simulation 615
+running simulation: "Adaptive Control"
+running simulation 869
+running simulation 117
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 870
+running simulation 118
+running simulation 366
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 616
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 871
+running simulation: "Adaptive Control"
+running simulation 367
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 119
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 872
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 617
+running simulation: "Adaptive Control"
+running simulation 120
+running simulation: "Sequential Control"
+running simulation 368
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 873
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 369
+running simulation 618
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 121
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 370
+running simulation 619
+running simulation: "Adaptive Control"
+running simulation 874
+running simulation: "Sequential Control"
+running simulation 122
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 620
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 875
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation 371
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 621
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 123
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 876
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 372
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 622
+running simulation 124
+running simulation: "Adaptive Control"
+running simulation 877
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 373
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 125
+running simulation 878
+running simulation 623
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation 374
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 879
+running simulation 624
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 126
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 375
+running simulation 625
+running simulation: "Adaptive Control"
+running simulation 880
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation 127
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 626
+running simulation 376
+running simulation: "Adaptive Control"
+running simulation 881
+running simulation 128
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation 377
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 882
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 627
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 129
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 883
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 378
+running simulation 628
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation 130
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 884
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 379
+running simulation: "Adaptive Control"
+running simulation 629
+running simulation 131
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 380
+running simulation 885
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 630
+running simulation 132
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 381
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 133
+running simulation 886
+running simulation 631
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 382
+running simulation: "Adaptive Control"
+running simulation 887
+running simulation 134
+running simulation 632
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 135
+running simulation 633
+running simulation 383
+running simulation 888
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 384
+running simulation 889
+running simulation 136
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation 634
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 890
+running simulation 385
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 137
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 635
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 891
+running simulation 138
+running simulation: "Adaptive Control"
+running simulation 636
+running simulation 386
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 387
+running simulation 139
+running simulation 637
+running simulation 892
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation 140
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 638
+running simulation: "Adaptive Control"
+running simulation 893
+running simulation 388
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 141
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 639
+running simulation 389
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation 894
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation 640
+running simulation: "Collective Control"
+running simulation 142
+running simulation: "Adaptive Control"
+running simulation 390
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 895
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 143
+running simulation 896
+running simulation 641
+running simulation 391
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation 144
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 392
+running simulation 897
+running simulation 642
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 145
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 393
+running simulation 643
+running simulation 898
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 394
+running simulation 146
+running simulation 899
+running simulation 644
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 395
+running simulation 147
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 645
+running simulation 900
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation 396
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 148
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 901
+running simulation 646
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 397
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 902
+running simulation 149
+running simulation: "Sequential Control"
+running simulation 647
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation 398
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 150
+running simulation: "Adaptive Control"
+running simulation 903
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 648
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation 904
+running simulation: "Collective Control"
+running simulation 399
+running simulation: "Adaptive Control"
+running simulation 151
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 649
+running simulation: "Sequential Control"
+running simulation 905
+running simulation: "Collective Control"
+running simulation 400
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation 152
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 906
+running simulation 650
+running simulation: "Adaptive Control"
+running simulation 401
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 907
+running simulation: "Adaptive Control"
+running simulation 153
+running simulation 651
+running simulation 402
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 652
+running simulation 403
+running simulation 154
+running simulation 908
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 404
+running simulation: "Adaptive Control"
+running simulation 653
+running simulation: "Adaptive Control"
+running simulation 155
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation 909
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation 405
+running simulation 654
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation 156
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation 910
+running simulation 655
+running simulation 406
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation 157
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 656
+running simulation 911
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 158
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 407
+running simulation: "Adaptive Control"
+running simulation 912
+running simulation 657
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 408
+running simulation 159
+running simulation 913
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 658
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 160
+running simulation 409
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation 914
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 659
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 161
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation 915
+running simulation: "Collective Control"
+running simulation 410
+running simulation: "Adaptive Control"
+running simulation 660
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation 162
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation 916
+running simulation 661
+running simulation 411
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 163
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 662
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 917
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 412
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 164
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation 663
+running simulation: "Adaptive Control"
+running simulation 413
+running simulation 918
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation 165
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 664
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 166
+running simulation 919
+running simulation 414
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 665
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 920
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 415
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation 167
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation 666
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 416
+running simulation 168
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 921
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 667
+running simulation 417
+running simulation: "Adaptive Control"
+running simulation 169
+running simulation 922
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation 668
+running simulation 418
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 170
+running simulation 923
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation 669
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 171
+running simulation 419
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 924
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation 670
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 420
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 172
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 925
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation 421
+running simulation: "Collective Control"
+running simulation 671
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 173
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 926
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 672
+running simulation 422
+running simulation: "Adaptive Control"
+running simulation 174
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation 927
+running simulation: "Collective Control"
+running simulation 423
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 175
+running simulation 673
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 424
+running simulation 928
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 674
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 425
+running simulation 176
+running simulation: "Adaptive Control"
+running simulation 929
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 426
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 177
+running simulation 675
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation 427
+running simulation 930
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation 178
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation 931
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 676
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 179
+running simulation 428
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation 932
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation 677
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 180
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 933
+running simulation 429
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 678
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 181
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation 934
+running simulation 430
+running simulation 679
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 182
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation 935
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 680
+running simulation: "Adaptive Control"
+running simulation 431
+running simulation 183
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 681
+running simulation: "Adaptive Control"
+running simulation 936
+running simulation 184
+running simulation 432
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 185
+running simulation 937
+running simulation: "Adaptive Control"
+running simulation 682
+running simulation 433
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 186
+running simulation 938
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 434
+running simulation 683
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 187
+running simulation 939
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 435
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 684
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation 188
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 940
+running simulation: "Adaptive Control"
+running simulation 436
+running simulation: "Sequential Control"
+running simulation 685
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 941
+running simulation: "Adaptive Control"
+running simulation 437
+running simulation 686
+running simulation 189
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 942
+running simulation 687
+running simulation 190
+running simulation 438
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 191
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 688
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 439
+running simulation 192
+running simulation 943
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation 689
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 440
+running simulation 193
+running simulation 944
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 690
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation 441
+running simulation: "Adaptive Control"
+running simulation 194
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation 945
+running simulation 691
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 442
+running simulation: "Adaptive Control"
+running simulation 195
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation 946
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 692
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 443
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation 196
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 444
+running simulation 693
+running simulation 947
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation 694
+running simulation: "Collective Control"
+running simulation 445
+running simulation: "Adaptive Control"
+running simulation 197
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 948
+running simulation 446
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation 695
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 198
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 949
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 696
+running simulation 447
+running simulation 199
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation 950
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 200
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 448
+running simulation: "Sequential Control"
+running simulation 697
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 951
+running simulation 201
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 449
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation 952
+running simulation: "Collective Control"
+running simulation 698
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation 202
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 450
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 953
+running simulation: "Adaptive Control"
+running simulation 451
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 699
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation 203
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation 954
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation 700
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation 955
+running simulation 452
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 204
+running simulation 701
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 453
+running simulation: "Adaptive Control"
+running simulation 205
+running simulation 702
+running simulation 956
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation 454
+running simulation: "Adaptive Control"
+running simulation 703
+running simulation 957
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 206
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation 455
+running simulation: "Collective Control"
+running simulation 704
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 958
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 207
+running simulation 705
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation 456
+running simulation: "Collective Control"
+running simulation 959
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 706
+running simulation 208
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 457
+running simulation 960
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation 707
+running simulation 209
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 458
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation 961
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 708
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 210
+running simulation 459
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 962
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 709
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 460
+running simulation 211
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 963
+running simulation: "Adaptive Control"
+running simulation 461
+running simulation 212
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 710
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 964
+running simulation: "Adaptive Control"
+running simulation 213
+running simulation: "Adaptive Control"
+running simulation 711
+running simulation: "Sequential Control"
+running simulation 462
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 965
+running simulation: "Adaptive Control"
+running simulation 214
+running simulation 712
+running simulation 463
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation 966
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 215
+running simulation 713
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 464
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation 967
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 216
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 714
+running simulation 465
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation 968
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 217
+running simulation: "Sequential Control"
+running simulation 466
+running simulation 715
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 969
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 218
+running simulation: "Sequential Control"
+running simulation 467
+running simulation: "Collective Control"
+running simulation 716
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 970
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation 468
+running simulation 219
+running simulation: "Adaptive Control"
+running simulation 717
+running simulation 971
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 220
+running simulation 718
+running simulation 469
+running simulation 972
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 719
+running simulation 221
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 973
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation 470
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 720
+running simulation 222
+running simulation: "Adaptive Control"
+running simulation 974
+running simulation 471
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation 223
+running simulation: "Adaptive Control"
+running simulation 721
+running simulation: "Adaptive Control"
+running simulation 975
+running simulation 472
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 722
+running simulation 224
+running simulation 473
+running simulation 976
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 225
+running simulation 723
+running simulation: "Adaptive Control"
+running simulation 474
+running simulation 977
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 724
+running simulation 226
+running simulation: "Adaptive Control"
+running simulation 978
+running simulation 475
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 725
+running simulation 227
+running simulation 979
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation 476
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 228
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 726
+running simulation: "Sequential Control"
+running simulation 477
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 980
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 229
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 478
+running simulation 727
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation 981
+running simulation 230
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 479
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation 728
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation 982
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 231
+running simulation 480
+running simulation 729
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 983
+running simulation: "Adaptive Control"
+running simulation 232
+running simulation: "Adaptive Control"
+running simulation 481
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation 730
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 984
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 233
+running simulation: "Adaptive Control"
+running simulation 482
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 731
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 234
+running simulation: "Adaptive Control"
+running simulation 985
+running simulation: "Adaptive Control"
+running simulation 732
+running simulation 483
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 235
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 484
+running simulation 986
+running simulation 733
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 236
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 987
+running simulation: "Adaptive Control"
+running simulation 485
+running simulation: "Sequential Control"
+running simulation 734
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 237
+running simulation: "Adaptive Control"
+running simulation 988
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation 735
+running simulation: "Collective Control"
+running simulation 486
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation 238
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 989
+running simulation: "Adaptive Control"
+running simulation 736
+running simulation 487
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation 239
+running simulation: "Adaptive Control"
+running simulation 990
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation 737
+running simulation 488
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation 240
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 738
+running simulation 489
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 991
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation 241
+running simulation 739
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 490
+running simulation 992
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 242
+running simulation: "Adaptive Control"
+running simulation 740
+running simulation: "Adaptive Control"
+running simulation 491
+running simulation 993
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 741
+running simulation: "Adaptive Control"
+running simulation 243
+running simulation 994
+running simulation 492
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 493
+running simulation 742
+running simulation 995
+running simulation 244
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 494
+running simulation 996
+running simulation 743
+running simulation: "Sequential Control"
+running simulation 245
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 997
+running simulation 744
+running simulation 495
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation 246
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 745
+running simulation 998
+running simulation: "Adaptive Control"
+running simulation 496
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation 247
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Adaptive Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation 746
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation 497
+running simulation: "Sequential Control"
+running simulation 999
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 747
+running simulation 248
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Collective Control"
+running simulation 498
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation 748
+running simulation 249
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation 499
+running simulation: "Adaptive Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation 749
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+running simulation: "Sequential Control"
+running simulation: "Collective Control"
+running simulation: "Adaptive Control"
+invalid results: 0
+Sequential Control
+passengers_in_traffic: min=57 max=113 avg=84.078 stddev=8.967492180091368
+cargo_in_traffic: min=9 max=42 avg=24.102000000000025 stddev=4.95253430073937
+stops: min=102 max=135 avg=118.465 stddev=5.2160114071961186
+passengers_delivered: min=37 max=65 avg=49.31899999999998 stddev=4.235473881397448
+cargo_delivered: min=3 max=23 avg=14.132000000000001 stddev=3.1994649552698626
+waiting_ticks: min=15 max=28735 avg=6880.965078420952 stddev=4991.122495792922
+ride_ticks: min=130 max=640 avg=295.6982553466443 stddev=139.18211885362305
+Collective Control
+passengers_in_traffic: min=57 max=113 avg=84.078 stddev=8.967492180091368
+cargo_in_traffic: min=9 max=42 avg=24.102000000000025 stddev=4.95253430073937
+stops: min=93 max=158 avg=125.74999999999989 stddev=10.411700149351208
+passengers_delivered: min=46 max=107 avg=78.06000000000004 stddev=9.450629608655706
+cargo_delivered: min=3 max=29 avg=14.605000000000013 stddev=3.536520182326125
+waiting_ticks: min=0 max=2026 avg=412.54424162660894 stddev=326.29327538841227
+ride_ticks: min=130 max=21802 avg=1253.5432363891541 stddev=1603.6764543501645
+Adaptive Control
+passengers_in_traffic: min=57 max=113 avg=84.078 stddev=8.967492180091368
+cargo_in_traffic: min=9 max=42 avg=24.102000000000025 stddev=4.95253430073937
+stops: min=96 max=157 avg=129.59799999999996 stddev=9.299161037426979
+passengers_delivered: min=53 max=108 avg=79.67400000000004 stddev=8.749155616400923
+cargo_delivered: min=4 max=33 avg=19.798 stddev=4.3780356325639955
+waiting_ticks: min=0 max=6627 avg=530.3411366763576 stddev=489.8300038602393
+ride_ticks: min=130 max=18097 avg=1022.8926230497094 stddev=1307.7237896182546
+
+done.

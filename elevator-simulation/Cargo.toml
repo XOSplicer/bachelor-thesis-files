@@ -1,0 +1,11 @@
+[package]
+name = "elsi"
+version = "0.1.0"
+authors = ["Felix Stegmaier <felix.stegmaier@hpe.com>"]
+
+[dependencies]
+lazy_static = "1.0.2"
+rand = "0.5.4"
+rayon = "1.0.2"
+streaming-stats = "0.2.0"
+uom = "0.19.0"
